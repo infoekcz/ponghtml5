@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>HTML5 Canvas Pong - Experiment</title>
+<title>Pong v prohlížeči - infoek.cz</title>
 <link rel="stylesheet" type="text/css" href="style.css">
 <link rel="shortcut icon" href="images/favicon.jpg" type="image/x-icon" /> 
 <script src="js/jquery.min.js"></script>
@@ -27,16 +27,15 @@
 </div>
 
 <div id="about">
-<h2>About the Game</h2>
-<p>This is my first HTML5 Canvas based game. I used <a target="_blank" href="http://www.schillmania.com/projects/soundmanager2/">SoundManager2</a> for HTML5/Flash audio. The rest is pure Canvas based Javascript and HTML5. I would love to know what you think of it, please leave a comment. All feedback is very much appreciated!<br>
-<br>I would also like to thanks to Phrogz on <a href="http://stackoverflow.com/questions/4576724/dotted-stroke-in-canvas">stackoverflow</a> for the <a href="http://ricklamers.nl/pong/js/plugins.js">dotted line canvas snippet</a>.<br>
+<h2>Informace o hře:</h2>
+<p>Pong je jedna z nejstarších videoher. Je to tenisová počítačová hra s jednoduchou 2D grafikou pro dva hráče. Hra originálně vyšla pod firmou Atari v roce 1972. Pong vytvořil Allan Alcorn jako cvičení; zadal mu ho zakladatel firmy Atari Nolan Bushnell.<a target="_blank" href="https://cs.wikipedia.org/wiki/Pong/">- Více na Wikipedii</a><br>
+<br>Zahrát si můžete open-source HTML5 verzi hry v prohlížeči. <a href="https://github.com/infoekcz/ponghtml5/">Fork na Githubu</a><br>
 <br>
 <span class="center">
-Resources used:<br>
-<a target="_blank" href="http://stackoverflow.com/">stackoverflow.com</a><br>
-<a target="_blank" href="http://w3schools.com/">w3school.com<br></a>
-<a target="_blank" href="http://net.tutsplus.com/">nettuts</a></span></p>
+Fork je hostován webem infoek.cz<br>
+<a target="_blank" href="http://infoek.cz/">infoek.cz</a><br>
 </div>
 </script>
+<script defer src="https://analytics.oscloud.cz/script.js" data-website-id="580f0fe8-fcba-41fe-82fa-20c363d11e99"></script>
 </body>
 </html>
